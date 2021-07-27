@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95436152.chunk.css",
+    "main.js": "/static/js/main.a94b0435.chunk.js",
+    "main.js.map": "/static/js/main.a94b0435.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afb6105d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afb6105d.js.map",
+    "static/js/2.093425aa.chunk.js": "/static/js/2.093425aa.chunk.js",
+    "static/js/2.093425aa.chunk.js.map": "/static/js/2.093425aa.chunk.js.map",
+    "static/js/3.c61a6c4a.chunk.js": "/static/js/3.c61a6c4a.chunk.js",
+    "static/js/3.c61a6c4a.chunk.js.map": "/static/js/3.c61a6c4a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.95436152.chunk.css.map": "/static/css/main.95436152.chunk.css.map",
+    "static/js/2.093425aa.chunk.js.LICENSE.txt": "/static/js/2.093425aa.chunk.js.LICENSE.txt",
+    "static/media/calendor.12edc106.jpg": "/static/media/calendor.12edc106.jpg",
+    "static/media/loader.5b8774b8.gif": "/static/media/loader.5b8774b8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afb6105d.js",
+    "static/js/2.093425aa.chunk.js",
+    "static/css/main.95436152.chunk.css",
+    "static/js/main.a94b0435.chunk.js"
+  ]
+}
