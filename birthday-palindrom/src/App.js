@@ -38,12 +38,12 @@ const App = ()=>{
        const inputDate=dateArray[2];
        let setFlag = checkAllDateFormat(inputYear,inputMonth,inputDate);
        if(setFlag){
-        newoutput= (`Whoa!!! Your birthdate in format ${setFlag} is palindrome`)
+        newoutput= (`Yeeeee Your birthday in format ${setFlag} is palindrome`)
        }
 
        else{
         let [nextdate, diff]=findNextDate(inputDate,inputMonth,inputYear);
-        newoutput = `Awww! Your birthdate is not palindrome. Nearest palindrome date is ${nextdate} You missed it by ${diff} days.`;
+        newoutput = `Ohhhh!!! Your birthday is not palindrome. Nearest palindrome date is ${nextdate} You missed it by ${diff} days.`;
        }
        setfinalResult(<p style={{border:`2px solid ${backgroundChange[0]}`, padding:"1rem"}}>{newoutput}</p>);
       
