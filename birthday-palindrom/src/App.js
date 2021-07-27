@@ -194,7 +194,8 @@ const App = ()=>{
                 <span>Night Mode</span>
               </li>
               <li id="git-repo">
-                Github Repo
+                <a href="https://github.com/Rishi05051997/Mark-13-Birthday-Palindrome">Github Repo</a>
+                
               </li>
             </ul>
           </div>
